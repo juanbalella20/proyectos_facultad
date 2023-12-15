@@ -1,0 +1,3 @@
+/mnt/c/Users/juan/Documents/110271_Balella_TP1/cmake-build-debug/CMakeFiles/ayp2_plantilla_tp1_2c2023.dir
+/mnt/c/Users/juan/Documents/110271_Balella_TP1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/juan/Documents/110271_Balella_TP1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
